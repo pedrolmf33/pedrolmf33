@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://github.com/pedrolmf33" target="_blank">
-    <!--   <img src="https://avatars.githubusercontent.com/u/170816254?v=4" alt="Pedro Luiz de Moraes Ferreira" width="150" height="150" style="border-radius:50%;"> -->
-    <sub><b>Pedro Luiz de Moraes Ferreira</b></sub>
-  </a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/pedrolmf33" target="_blank"> -->
+<!--       <img src="https://avatars.githubusercontent.com/u/170816254?v=4" alt="Pedro Luiz de Moraes Ferreira" width="150" height="150" style="border-radius:50%;"> -->
+<!--     <sub><b>Pedro Luiz de Moraes Ferreira</b></sub> -->
+<!--   </a> -->
+<!-- </p> -->
 
 <h3 align="center">Olá a todos! 👋 Eu sou o Pedro Luiz!</h3>
 
