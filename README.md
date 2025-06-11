@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/170816254?v=4" alt="Pedro Luiz de Moraes Ferreira" width="150" height="150" style="border-radius:50%;">
+<!--   <img src="https://avatars.githubusercontent.com/u/170816254?v=4" alt="Pedro Luiz de Moraes Ferreira" width="150" height="150" style="border-radius:50%;"> -->
   <h1>Olá! 👋 Eu sou o Pedro Luiz</h1>
   <p>Estudante de Sistema de Informação na Universidade Federal de Itajubá (UNIFEI).</p>
   <p>Buscando obter o máximo de conhecimento em TI, gestão de projetos e análise de negócios, com foco em identificar e aplicar soluções tecnológicas que apoiem as organizações.</p>
