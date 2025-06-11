@@ -15,8 +15,6 @@
 
 ### 💻 Minhas Habilidades e Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
-
 <p align="center">
   <a href="https://www.w3.org/TR/html52/" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -48,7 +46,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-  <a href="https://github.com/pedrolmf33" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/pedrolmf33" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -71,8 +70,6 @@ Atualmente, estou aprofundando meus conhecimentos em programação web e me prep
 
 ### ✨ Meus Projetos em Destaque
 
-Aqui estão alguns repositórios nos quais estou trabalhando ou já trabalhei:
-
 * [**Programacao_Orientada_Objeto**](https://github.com/pedrolmf33/Programacao_Orientada_Objeto.git) - Projeto focado em conceitos de Programação Orientada a Objetos.
 * [**algoritmos_de_ordenacao**](https://github.com/pedrolmf33/algoritmos_de_ordenacao.git) - Implementações e estudos sobre diferentes algoritmos de ordenação.
 
@@ -81,9 +78,13 @@ Aqui estão alguns repositórios nos quais estou trabalhando ou já trabalhei:
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/pedrolmf33" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=pedrolmf33&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro Luiz" />
+  <a href="https://github.com/pedrolmf33" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrolmf33&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro Luiz" />
   </a>
-  <a href="https://github.com/pedrolmf33" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmf33&layout=compact&theme=radical&hide_progress=true" alt="Linguagens Mais Usadas de Pedro Luiz" />
+</p>
+<p align="center">
+  <a href="https://github.com/pedrolmf33" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolmf33&layout=compact&theme=radical&hide_progress=true" alt="Linguagens Mais Usadas de Pedro Luiz" />
   </a>
 </p>
 
@@ -95,6 +96,8 @@ Aqui estão alguns repositórios nos quais estou trabalhando ou já trabalhei:
   <a href="https://www.linkedin.com/in/pedro-luiz-ferreira-765089336/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+<p align="center">
   <a href="https://www.instagram.com/pedro_luiz2070/profilecard/?igsh=MXVsMTFnd2Vkc3hhZg==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
