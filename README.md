@@ -5,7 +5,7 @@
 <!--   </a> -->
 <!-- </p> -->
 
-<h3 align="center">Olá a todos! 👋 Eu sou o Pedro Luiz!</h3>
+<h1 align="center">Olá a todos! 👋 Eu sou o Pedro Luiz!</h1>
 
 <p align="center">
   Estudante de Sistema de Informação na Universidade Federal de Itajubá (UNIFEI), buscando obter o máximo de conhecimento em TI, gestão de projetos e análise de negócios, com foco em identificar e aplicar soluções tecnológicas que apoiem as organizações.
