@@ -79,7 +79,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação web e me prep
 
 ### ✨ Meus Projetos em Destaque
 
-* [**Portifólio**](https://696d8ff05cbdd5aa2035882a--stirring-gumdrop-4cb634.netlify.app) - Este é o meu portifólio, feito para mostrar mais um pouco sobre mim e apresentar meus projetos.
+* [**Portifólio**](https://stirring-gumdrop-4cb634.netlify.app) - Este é o meu portifólio, feito para mostrar mais um pouco sobre mim e apresentar meus projetos.
 * [**Programacao_Orientada_Objeto**](https://github.com/pedrolmf33/Programacao_Orientada_Objeto.git) - Projeto focado em conceitos de Programação Orientada a Objetos.
 * [**algoritmos_de_ordenacao**](https://github.com/pedrolmf33/algoritmos_de_ordenacao.git) - Implementações e estudos sobre diferentes algoritmos de ordenação.
 * [**Garagem_Degital**](https://garagem-digital-three.vercel.app/) - Implementações de um site feito em grupo, onde fiquei responsável pelo front-end.
