@@ -109,7 +109,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação web e me prep
   </a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/pedro_luiz2070/profilecard/?igsh=MXVsMTFnd2Vkc3hhZg==" target="_blank">
+  <a href="https://www.instagram.com/pedro_luiz2070/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
