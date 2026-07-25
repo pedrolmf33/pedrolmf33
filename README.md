@@ -16,7 +16,7 @@
 ### 💻 Minhas Habilidades e Ferramentas
 
 <p>
-  ### 📊 Análise de Dados e Business Intelligence
+  📊 Análise de Dados e Business Intelligence
 </p>
 
 <p align="center">
