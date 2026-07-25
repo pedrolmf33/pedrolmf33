@@ -34,7 +34,7 @@
 
 </p>
 
-#### Banco de Dados
+#### 🗄️ Banco de Dados
 
 <p align="center">
 
@@ -48,7 +48,7 @@
 
 </p>
 
-#### Linguagens de Programação
+#### 💻 Linguagens de Programação
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-#### Front-end
+#### 🌐 Front-end
 <p align="center">
   <a href="https://www.w3.org/TR/html52/" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -77,7 +77,7 @@
   </a>
 </p>
 
-#### Back-end
+#### ⚙️ Back-end
 <p align="center">
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -90,7 +90,7 @@
   </a>
 </p>
 
-#### Ferramentas e Outros
+#### 🛠️ Ferramentas e Outros
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
