@@ -8,12 +8,43 @@
 <h1 align="center">Olá a todos! 👋 Eu sou o Pedro Luiz!</h1>
 
 <p align="center">
-  Estudante de Sistema de Informação na Universidade Federal de Itajubá (UNIFEI), buscando obter o máximo de conhecimento em TI, gestão de projetos e análise de negócios, com foco em identificar e aplicar soluções tecnológicas que apoiem as organizações.
+  Estudante de Sistemas de Informação na Universidade Federal de Itajubá (UNIFEI), apaixonado por tecnologia, desenvolvimento de software e análise de dados. Busco desenvolver soluções que transformem dados em informações estratégicas para apoiar a tomada de decisão, aliando programação, Business Intelligence e desenvolvimento web.
 </p>
 
 ---
 
 ### 💻 Minhas Habilidades e Ferramentas
+
+### 📊 Análise de Dados e Business Intelligence
+
+<p align="center">
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </a>
+
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Looker Studio" />
+  </a>
+
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+
+</p>
+
+#### Banco de Dados
+
+<p align="center">
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://www.prisma.io/" target="_blank">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</a>
+
+</p>
 
 #### Linguagens de Programação
 <p align="center">
@@ -52,20 +83,27 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  </a>
 </p>
 
 #### Ferramentas e Outros
 <p align="center">
-  <a href="https://github.com/pedrolmf33" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-VirtualBox-20A7EE?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <a href="https://learn.microsoft.com/windows/wsl/" target="_blank">
+    <img src="https://img.shields.io/badge/-WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Windows Subsystem for Linux" />
   </a>
-  <a href="https://learn.microsoft.com/pt-br/windows/wsl/" target="_blank">
-    <img src="https://img.shields.io/badge/-WSL-264DE4?style=for-the-badge&logo=windows&logoColor=white" alt="WSL" />
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
 </p>
 
@@ -73,7 +111,7 @@
 
 ### 🌱 O que estou aprendendo agora
 
-Atualmente, estou aprofundando meus conhecimentos em programação web e me preparando para entrar no mundo de Banco de Dados.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack com Next.js, Node.js, Prisma e PostgreSQL, além de expandir minhas habilidades em Business Intelligence, Power BI e análise de dados.
 
 ---
 
@@ -85,6 +123,18 @@ Atualmente, estou aprofundando meus conhecimentos em programação web e me prep
 * [**Garagem_Degital**](https://garagem-digital-three.vercel.app/) - Implementações de um site feito em grupo, onde fiquei responsável pelo front-end.
 
 ---
+
+## 🎯 Áreas de Interesse
+
+📊 Business Intelligence
+
+📈 Análise de Dados
+
+💻 Desenvolvimento Full Stack
+
+🗄️ Banco de Dados
+
+⚙️ Automação de Processos
 
 ### 📈 Estatísticas do GitHub
 
