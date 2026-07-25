@@ -15,9 +15,11 @@
 
 ### 💻 Minhas Habilidades e Ferramentas
 
-<p>
-  📊 Análise de Dados e Business Intelligence
 </p>
+
+#### 📊 Análise de Dados e Business Intelligence
+
+<p align="center">
 
 <p align="center">
   <a href="https://powerbi.microsoft.com/" target="_blank">
